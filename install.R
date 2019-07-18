@@ -1,3 +1,5 @@
-install.packages("tidyverse")
+install.packages("stringr")
 install.packages("plotly")
 install.packages("ggthemes")
+install.packages("dplyr")
+install.packages("tidyr")
